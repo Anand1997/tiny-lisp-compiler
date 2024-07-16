@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DC853-D7AF-4C52-ADD7-BA6584C9FF87}|build.vcxproj|C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DC853-D7AF-4C52-ADD7-BA6584C9FF87}|build.vcxproj|C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\src\\gc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DC853-D7AF-4C52-ADD7-BA6584C9FF87}|build.vcxproj|C:\\DEV\\00_CWD\\PROJECTS\\LISP-C-COMPILER\\TINY-LISP-COMPILER\\INC\\CONFIG.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DC853-D7AF-4C52-ADD7-BA6584C9FF87}|build.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDLIB.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.h",
+              "DocumentMoniker": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\inc\\Config.h",
+              "RelativeDocumentMoniker": "..\\inc\\Config.h",
+              "ToolTip": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\inc\\Config.h",
+              "RelativeToolTip": "..\\inc\\Config.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T20:08:34.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gc.cpp",
+              "DocumentMoniker": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\src\\gc.cpp",
+              "RelativeDocumentMoniker": "..\\src\\gc.cpp",
+              "ToolTip": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\src\\gc.cpp",
+              "RelativeToolTip": "..\\src\\gc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T20:08:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stdlib.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T20:08:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\dev\\00_CWD\\projects\\lisp-c-compiler\\tiny-lisp-compiler\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAASwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T20:05:55.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
