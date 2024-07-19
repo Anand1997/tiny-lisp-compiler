@@ -11,5 +11,10 @@
 #include <iostream>
 #include "Config.h"
 
+
+
+
+
 int main(){
+    std::cout << stringPrintf("Hello, %s \n","Anand") << std::endl;
 }
