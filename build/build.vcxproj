@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="..\src\ReadLine.cpp" />
     <ClCompile Include="..\src\string_wrapper.cpp" />
     <!--
     <ClCompile Include="..\src\temp.cpp" />
