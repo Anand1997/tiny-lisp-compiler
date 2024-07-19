@@ -148,7 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\main.cpp" />
-    <ClCompile Include="..\src\gc.cpp" />
+    <ClCompile Include="..\src\temp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

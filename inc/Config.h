@@ -1,5 +1,8 @@
-#define I unsigned
-#define L double
-#define T(x) *(unsigned long long*)&x>>48
-#define A (char*)cell
-#define N 1024
+//////////////////////////////////////////////////////////////////////////////
+///	PROJECT CONFIGURATION 
+/// Author : Anand Narwade
+/// Date   : 07-19-24
+/// file   : Config.h
+//////////////////////////////////////////////////////////////////////////////
+
+#include "temp.h"
